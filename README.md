@@ -6,7 +6,7 @@ This collection captures my personal learning journey over the past 3 months in 
 
 **Contents:**
 - SQL queries with solutions
-- Sample data for each query
+- Sample data 
 - Expected outputs and results
 
 This is a personal record of my SQL learning experience.
