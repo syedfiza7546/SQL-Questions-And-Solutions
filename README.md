@@ -10,5 +10,6 @@ This collection captures my personal learning journey over the past 3 months in 
 - Expected outputs and results
 
 This is a personal record of my SQL learning experience.
+
 ![SQL Learning Journey](https://github.com/syedfiza7546/SQL-Questions-And-Solutions/blob/main/Image%202024-11-17%20at%2003.51.59_5c0bafdb.jpg)
 
