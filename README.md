@@ -2,10 +2,11 @@
 
 **Overview:**
 
-This collection contains SQL queries I’ve solved over the past 3 months from various sources such as YouTube tutorials, LeetCode, ChatGPT prompt, and other platforms. The repository includes detailed solutions, sample data, and expected outputs for each problem. It is designed to help SQL learners understand complex concepts with practical, real-world examples, and improve problem-solving skills. These solutions serve as a guide to mastering SQL queries through structured learning and hands-on practice.
+This collection captures my personal learning journey over the past 3 months in SQL. The questions and solutions compiled here are from various sources including YouTube tutorials, LeetCode, ChatGPT, and others. This PDF file consolidates all the problems I've solved, along with sample data and the expected results. It's a reflection of my efforts to improve and master SQL, offering a detailed overview of my progress and problem-solving techniques.
 
-**What’s Inside:**
-- SQL query solutions with explanations
-- Sample data 
+**Contents:**
+- SQL queries with solutions
+- Sample data for each query
 - Expected outputs and results
-- Problem-solving strategies
+
+This is a personal record of my SQL learning experience.
