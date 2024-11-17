@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This collection captures my personal learning journey over the past 3 months in SQL. The questions and solutions compiled here are from various sources including YouTube tutorials, LeetCode, ChatGPT, and others. This PDF file consolidates some of the problems I've solved, along with sample data and the expected results. It's a reflection of my efforts to improve and master SQL, offering a detailed overview of my progress and problem-solving techniques.
+This collection is a quiet chronicle of my journey into SQL over a short span of time. The questions and solutions gathered here are drawn from various sources—videos, practice platforms like LeetCode, exchanges with ChatGPT, and other scattered corners. Within these pages, you’ll find a patchwork of problems I’ve wrestled with, paired with sample data and their expected outcomes. It’s not a declaration of mastery, but rather a modest record of effort—an honest attempt to learn, solve, and understand.
 
 **Contents:**
 - SQL queries with solutions
